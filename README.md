@@ -37,7 +37,7 @@ Worked as a Full-Stack Developer Intern where I contributed to an existing codeb
 - Deployment and production readiness
 
 ## Resume
-👉 [View  Resume](https://raw.githubusercontent.com/TaranaKhanna/resume/main/Tarana_Khanna_CV.pdf)
+👉 [View  Resume](https://github.com/user-attachments/files/29364849/taranak_Cv.pdf)
 
 ## Contact
 Email: taranakhanna5@gmail.com  
